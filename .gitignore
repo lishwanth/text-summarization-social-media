@@ -1,0 +1,18 @@
+# Python
+*.pyc
+__pycache__/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Data
+data/processed/
+data/raw/articles.csv
+data/social_media_logs.db
+
+# Models
+models/
+
+# Docker
+*.log
+docker-compose.override.yml
